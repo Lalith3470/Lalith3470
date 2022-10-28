@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Lalit Kiran</h1>
+<h1 align="center">Hi 👋, I'm Lalith Kiran</h1>
 <h3 align="center">I am currently pursuing my Btech Degree in Computer Science with Specialisation in Big Data Analytics at the SRMIST, KTR, Chennai, India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lalith3470&label=Profile%20views&color=0e75b6&style=flat" alt="lalith3470" /> </p>
