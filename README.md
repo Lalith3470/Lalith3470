@@ -25,4 +25,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lalith3470&show_icons=true&locale=en&layout=compact" alt="lalith3470" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lalith3470&show_icons=true&locale=en" alt="lalith3470" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lalith3470&" alt="lalith3470" /></p>
-![Lalith github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Lalith3470&bg_color=000000&color=ffffff&line=c800ff&point=ffffff&area=true&hide_border=true)
+
