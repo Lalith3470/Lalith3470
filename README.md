@@ -13,7 +13,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/lalith-kiran-79810a1b8/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lalith-kiran" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/lalithkiran539" target="blank"><img align="center" src"https://user-images.githubusercontent.com/62868878/104332501-41696600-5516-11eb-8cbe-ee755e31a01c.png=" alt="lalithkiran539" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/lalithkiran539" target="blank"><img align="center" src"Download the "codechef" icon https://iconduck.com/icons/592/codechef?shared" alt="lalithkiran539" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/lalithkiran539//users/lalithkiran539" target="blank"><img align="center" src="https://avatars.githubusercontent.com/u/73467235?s=200&v=4" alt="lalithkiran539" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/mk5051" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mk5051" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/lalithkiran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="lalithkiran" height="30" width="40" /></a>
