@@ -28,5 +28,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lalith3470&" alt="lalith3470" /></p>
 
-![Lalith github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Lalith3470&bg_color=000000&color=ffffff&line=c800ff&point=ffffff&area=true&hide_border=true)
 
