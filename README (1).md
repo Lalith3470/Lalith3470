@@ -2,10 +2,6 @@
 
 <h3 align="center">I am currently pursuing my Btech Degree in Computer Science with Specialisation in Big Data Analytics at the SRMIST, KTR, Chennai, India.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lalith3470&label=Profile%20views&color=0e75b6&style=flat" alt="lalith3470" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lalith3470" alt="lalith3470" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 📫 How to reach me **lalithkiran539@gmail.com**
@@ -25,7 +21,7 @@
 ![Lalith Kiran](https://github-readme-stats.vercel.app/api?username=Lalith3470&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40)</br>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Lalith3470&theme=highcontrast)</br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Lalith3470&layout=compact&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40)</br>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lalith3470&label=Profile%100views&color=0e75b6&style=flat" alt="lalith3470" /> </p>
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Lalith3470&theme=onestar&no-frame=true&no-bg=false&column=-1)
 
