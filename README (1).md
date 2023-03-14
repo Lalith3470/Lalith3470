@@ -21,7 +21,7 @@
 ![Lalith Kiran](https://github-readme-stats.vercel.app/api?username=Lalith3470&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40)</br>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Lalith3470&theme=highcontrast)</br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Lalith3470&layout=compact&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40)</br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lalith3470&label=Profile%100views&color=0e75b6&style=flat" alt="lalith3470" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lalith3470&label=Profile%20views&color=0e75b6&style=flat" alt="lalith3470" /> </p>
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Lalith3470&theme=onestar&no-frame=true&no-bg=false&column=-1)
 
